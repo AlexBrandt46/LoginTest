@@ -1,0 +1,14 @@
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\bin\Debug\netstandard2.0\LoginTest.deps.json
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\bin\Debug\netstandard2.0\LoginTest.dll
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\bin\Debug\netstandard2.0\ref\LoginTest.dll
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\bin\Debug\netstandard2.0\LoginTest.pdb
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.csproj.AssemblyReference.cache
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.AssemblyInfoInputs.cache
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.AssemblyInfo.cs
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.csproj.CoreCompileInputs.cache
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.dll
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\ref\LoginTest.dll
+C:\Users\ajb31\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.pdb
